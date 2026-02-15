@@ -32,9 +32,9 @@ public class Main {
         System.out.println("El salario semanal es: " + salarioSemanal);
     }
 }
-PDF-155 LIBRO 125 (3.4, 3.5, 3.6)
 
-PUNTO 3.4
+
+
 
 public class Main {
     public static void main(String[] args) {
@@ -91,11 +91,7 @@ public class Main {
         double expr_extra = Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2);   
 
 
-
-
-                                                                  
-                                                  
- System.out.println("a) " + expr_a);
+        System.out.println("a) " + expr_a);
         System.out.println("b) " + expr_b);
         System.out.println("c) " + expr_c);
         System.out.println("d) " + expr_d);
